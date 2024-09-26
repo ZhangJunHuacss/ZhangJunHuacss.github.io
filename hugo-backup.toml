@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-cn'
+title = '张俊华的个人博客'
+theme = 'hugo-theme-stack'
